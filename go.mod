@@ -1,6 +1,6 @@
 module github.com/bradleyjkemp/grpc-tools
 
-go 1.13
+go 1.25
 
 require (
 	github.com/bradleyjkemp/cupaloy/v2 v2.6.0
